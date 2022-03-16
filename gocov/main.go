@@ -27,7 +27,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/axw/gocov"
+	"github.com/jdemeyer/gocov"
 )
 
 func usage() {
